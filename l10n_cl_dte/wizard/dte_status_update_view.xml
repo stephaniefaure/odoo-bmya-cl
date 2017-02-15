@@ -15,7 +15,7 @@
                 <form string="DTE Status Change">
                     <group>
                         <field name="sii_result"/>
-                        <field name="idsii"/>
+                        <!--<field name="idsii"/>-->
                         <field name="glosa"/>
                     </group>
                     <footer>
